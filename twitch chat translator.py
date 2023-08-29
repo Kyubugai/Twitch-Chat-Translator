@@ -3,7 +3,7 @@ import socket
 from translate import Translator
 from langdetect import detect
 
-# Twitch settings
+# Twitch Info
 print("Made By Kyubugai <3")
 print("Twitch Username (The Name of the account you use to translate, you can you the same account as the channel you are translating)")
 TWITCH_USERNAME = input("Enter your Twitch username: ")
